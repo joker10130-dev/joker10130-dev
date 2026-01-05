@@ -42,6 +42,6 @@ Git • GitHub • Docker • CI/CD • Agile methodology
 
 ### ✨ About me
 - Birthdate 12th August 1996
-- Bachelor’s degree in Computer Science
+- Bachelor’s degree in Computer Science at KMUTT
 - Passionate about web development and clean code
 - Always learning new technologies 🚀
