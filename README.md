@@ -1,4 +1,4 @@
-# 👋 Hi! I'm Narongrit (Frontend / Full Stack Developer)
+# 👋 Hi! I'm Narongrit (Frontend / Backend / Full Stack Developer)
 
 🔹 5+ years of experience in Frontend Development  
 🔹 1–2 years of experience in Backend Development  
