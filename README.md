@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hi! I'm Narongrit (Frontend / Full Stack Developer)
 
-<!--
-**joker10130-dev/joker10130-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 5+ years of experience in Frontend Development  
+🔹 1–2 years of experience in Backend Development  
+🔹 Open to: Full-time / 1+ year Contract  
+🔹 Work type: Hybrid (Bangkok area)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+### 💻 Frontend
+Angular • React.js • Next.js • JavaScript • TypeScript • HTML • SCSS
+
+### ⚙️ Backend
+Java • Spring Boot • Express.js
+
+### 🗄 Database
+PostgreSQL • MongoDB
+
+### 🛠 Others
+Git • GitHub • Docker • CI/CD • Agile methodology
+
+---
+
+## ⭐ Featured Projects
+
+- DSS Analysis System  
+- MERN CRUD application  
+- Senior Project  
+- Portfolio website  
+
+---
+
+## 📫 Contact & Links
+
+- 🔗 GitHub: https://github.com/joker10130-dev
+- 📧 Email: narongrit.rodphroboon@outlook.co.th
+- 💼 LinkedIn: https://www.linkedin.com/in/narongrit-rodphroboon-0a23a5184/
+
+---
+
+### ✨ About me
+- Birthdate 12th August 1996
+- Bachelor’s degree in Computer Science
+- Passionate about web development and clean code
+- Always learning new technologies 🚀
