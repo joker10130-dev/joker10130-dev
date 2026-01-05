@@ -45,4 +45,6 @@ Git • GitHub • Docker • CI/CD • Agile methodology
 - Bachelor’s degree in Computer Science at KMUTT
 - Passionate about web development and clean code
 - Always learning new technologies 🚀
-- [Resume](https://github.com/joker10130-dev/joker10130-dev/blob/main/Resume_Narongrit_Developer.pdf)
+
+📄 **Resume:**  
+https://github.com/joker10130-dev/joker10130-dev/blob/main/Resume_Narongrit_Developer.pdf
