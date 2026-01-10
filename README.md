@@ -2,7 +2,7 @@
 
 🔹 5+ years of experience in Frontend Development  
 🔹 1–2 years of experience in Backend Development  
-🔹 Open to: Full-time / 1+ year Contract  
+🔹 Open to: Full-time / Contract  
 🔹 Work type: Hybrid (Bangkok area)
 
 ---
