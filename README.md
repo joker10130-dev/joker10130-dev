@@ -19,7 +19,7 @@ Java • Spring Boot • Express.js
 PostgreSQL • MongoDB
 
 ### 🛠 Others
-Git • GitHub • Docker • CI/CD • Agile methodology
+Git • GitHub • Github Copilot • Docker • CI/CD • Agile methodology • Kibana • Jenkins
 
 ---
 
