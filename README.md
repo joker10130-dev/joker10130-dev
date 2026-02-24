@@ -1,7 +1,7 @@
 # 👋 Hi! I'm Narongrit (Frontend / Backend / Full Stack Developer)
 
 🔹 5+ years of experience in Frontend Development  
-🔹 1–2 years of experience in Backend Development  
+🔹 2 years of experience in Backend Development  
 🔹 Open to: Full-time / Contract / Freelance  
 🔹 Work type: Hybrid (Bangkok area)
 
