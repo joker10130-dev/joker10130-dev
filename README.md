@@ -16,7 +16,7 @@ Angular • React.js • Next.js • JavaScript • TypeScript • HTML • SCSS
 Java • Spring Boot • Express.js
 
 ### 🗄 Database
-PostgreSQL • MongoDB
+PostgreSQL • MongoDB • Redis
 
 ### 🛠 Others
 Git • GitHub • Github Copilot • Docker • CI/CD • Agile methodology • Kibana • Jenkins
